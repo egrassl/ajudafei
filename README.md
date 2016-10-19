@@ -18,4 +18,4 @@ Siga os seguintes passos para instalar o projeto:
 
 * Utilizar [Sublime Text 3](https://www.sublimetext.com/3  "Sublime Text 3") para a edição de arquivos
 
-* Saber o básico de [html, css3, javascript, php](http://www.w3schools.com  "w3schools") e [Wordpress](https://codex.wordpress.org  "Wordpress Codex").
+* Saber o básico de [html, css3, javascript, php](http://www.w3schools.com  "w3schools") e [Wordpress](https://codex.wordpress.org  "Wordpress Codex")
