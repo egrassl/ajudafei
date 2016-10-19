@@ -1,5 +1,5 @@
 <div style="text-align:center">
-![FEI](https://github.com/egrassl/ajudafei/blob/master/img/logo-fei.jpg?raw=true "FEI")
+![alt text](https://github.com/egrassl/ajudafei/blob/master/img/logo-fei.jpg?raw=true "FEI")
 </div>
 
 
